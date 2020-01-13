@@ -1,0 +1,1 @@
+foodsdb = {"vegetables":["broccoli","cauliflower","cabbage","carrot","beets","spinach"], "fruits":["apple","banana","grapes","pear","mango","honeydew","cantaloupe"], "entrees":["pizza","taco","steak","cheeseburger","potato salad"], "desserts":["vanilla cake","chocolate cake","chocolate chip cookies","sugar cookies","caramel apple","candy"]}
