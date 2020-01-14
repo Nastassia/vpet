@@ -23,8 +23,8 @@ class Monster:
 				food = foodsdb[i][randrange(num_items)]
 				if food in self.fav_food:
 					food = foodsdb[i][randrange(num_items)]
-				else:
-					self.hated_food.append(food)
+				
+				self.hated_food.append(food)
 
 
 		fav_foods(self,foodsdb)
